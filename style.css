@@ -1,0 +1,198 @@
+/* Подключённый шрифт Roboto */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #121212;
+  color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Заголовок */
+h1 {
+  margin-top: 20px;
+  font-size: 36px;
+  color: #f1f1f1;
+  text-align: center;
+}
+
+/* Контейнер для всех блоков */
+.container {
+  width: 90%;
+  max-width: 1000px;
+  padding: 20px;
+}
+
+/* Блоки персонажей */
+#character-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+/* Стиль карточки персонажа */
+#character-details {
+  background-color: #1e1e1e;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.5);
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+#character-details img {
+  max-width: 300px;
+  border-radius: 8px;
+  margin: 15px 0;
+}
+
+#character-details ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+#character-details li {
+  background-color: #2a2a2a;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 8px;
+  text-align: left;
+  color: #e0e0e0;
+}
+
+/* Кнопки выбора типа персонажей */
+.toggle-buttons {
+  margin: 20px 0;
+  text-align: center;
+}
+
+/* Общие стили кнопок */
+button {
+  padding: 10px 20px;
+  margin: 6px;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  transition: transform 0.2s, background-color 0.3s, box-shadow 0.3s;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+}
+
+/* Основные персонажи */
+button.character-button {
+  background-color: #2196f3;
+  color: white;
+}
+button.character-button:hover {
+  background-color: #1976d2;
+  transform: scale(1.05);
+}
+
+/* Гостевые персонажи */
+button.guest-character {
+  background-color: #9c27b0;
+  color: white;
+}
+button.guest-character:hover {
+  background-color: #7b1fa2;
+  transform: scale(1.05);
+}
+
+/* Камео-персонажи */
+button.kameo-character {
+  background-color: #4caf50;
+  color: white;
+}
+button.kameo-character:hover {
+  background-color: #388e3c;
+  transform: scale(1.05);
+}
+
+#character-details:empty {
+  display: none;
+}
+
+.beginner-tips {
+  background-color: #1e1e1e;
+  padding: 20px;
+  border-radius: 12px;
+  margin: 20px auto;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  color: #e0e0e0;
+}
+
+.beginner-tips h2 {
+  margin-top: 0;
+  color: #ffeb3b;
+  font-size: 22px;
+  text-align: center;
+}
+
+.beginner-tips ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.beginner-tips li {
+  margin: 10px 0;
+  line-height: 1.5;
+}
+
+/* 📱 Адаптация под экраны меньше 768px */
+@media (max-width: 768px) {
+  body {
+    padding: 10px;
+  }
+
+  .container {
+    padding: 10px;
+  }
+
+  .beginner-tips {
+    font-size: 15px;
+    padding: 15px;
+  }
+
+  .toggle-buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .toggle-buttons button,
+  .toggle-buttons select {
+    width: 100%;
+    margin: 8px 0;
+  }
+
+  #character-buttons {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  button.character-button,
+  button.guest-character,
+  button.kameo-character {
+    width: 100%;
+    font-size: 18px;
+  }
+
+  #character-details img {
+    width: 100%;
+    height: auto;
+  }
+
+  #character-details {
+    padding: 15px;
+    text-align: left;
+  }
+
+  #character-details li {
+    font-size: 15px;
+  }
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Гайд по Mortal Kombat 1</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+
+    <div class="toggle-buttons">
+  <button onclick="loadCharacters('characters')">Основные персонажи</button>
+  <button onclick="loadCharacters('kameos')">Kameo-персонажи</button>
+  <select id="controller-select" onchange="updateControllerType()" style="margin-left: 20px; padding: 5px 10px; border-radius: 10px;">
+    <option value="xbox" selected>Xbox</option>
+    <option value="ps">PlayStation</option>
+  </select>
+</div>
+
+
+
+    <h1>Гайд по Mortal Kombat 1</h1>
+    <div id="character-buttons"></div>
+    <div id="character-details"></div>
+
+    <div class="beginner-tips" id="beginner-tips">
+      
+  <h2>Советы для новичков</h2>
+  <ul>
+    <li><strong>Изучай одного персонажа.</strong> Не пытайся освоить всех сразу — начни с одного бойца и углубляйся в его механику.</li>
+    <li><strong>Тренируй комбо.</strong> Используй режим тренировки, чтобы выучить и отработать основные комбинации ударов.</li>
+    <li><strong>Используй камео-гайдов.</strong> Не забывай про камео-персонажей — они могут спасти тебя в критический момент.</li>
+    <li><strong>Не бойся проигрывать.</strong> Каждый бой — это опыт. Смотри повторы и учись на ошибках.</li>
+    <li><strong>Контролируй дистанцию.</strong> Узнай, какие атаки работают с близкого, а какие — с дальнего расстояния.</li>
+  </ul>
+</div>
+
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>

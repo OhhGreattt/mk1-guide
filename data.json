@@ -1,0 +1,1442 @@
+{
+  "characters": [
+ {
+  "name": "Scorpion",
+  "image": "images/Scorpion.png",
+  "moves": [
+    {
+      "name": "Spear",
+      "input": "← → X",
+      "type": "Спецприём",
+      "description": "Метает гарпун во врага и притягивает его к себе с криком 'Get over here!'"
+    },
+    {
+      "name": "Hellfire",
+      "input": "↓ ↑ A",
+      "type": "Спецприём",
+      "description": "Призывает пламя из-под ног противника."
+    },
+    {
+      "name": "Teleport Punch",
+      "input": "↓ ← Y",
+      "type": "Спецприём",
+      "description": "Телепортируется за спину врага и наносит удар."
+    },
+    {
+      "name": "Demon Dash",
+      "input": "→ ↓ B",
+      "type": "Спецприём",
+      "description": "Скорпион бросается вперёд в виде демона, сбивая врага."
+    },
+    {
+      "name": "Fatal Blow — Infernal Vengeance",
+      "input": "LT + RT",
+      "type": "Fatal Blow",
+      "description": "Цепная атака с использованием гарпуна, огня и телепортаций."
+    },
+    {
+      "name": "Fatality 1 — You’re Next",
+      "input": "↓ → ↓ A",
+      "type": "Fatality",
+      "description": "Скорпион сжигает врага адским пламенем и рассекает катаной."
+    },
+    {
+      "name": "Fatality 2 — Chain Reaction",
+      "input": "← → ↓ Y",
+      "type": "Fatality",
+      "description": "Убивает врага серией ударов цепью с последующим взрывом."
+    },
+    {
+      "name": "Brutality — Hell Kick",
+      "input": "↓ + A",
+      "type": "Brutality",
+      "description": "Мощный завершающий удар ногой в пламени ада."
+    }
+  ]
+},
+{
+  "name": "Sub-Zero",
+  "image": "images/Sub-Zero.png",
+  "moves": [
+    {
+      "name": "Ice Ball",
+      "input": "↓ → X",
+      "type": "Спецприём",
+      "description": "Замораживает врага снарядом, временно обездвиживая его."
+    },
+    {
+      "name": "Slide",
+      "input": "← → A",
+      "type": "Спецприём",
+      "description": "Подкатывается под врага и сбивает его с ног."
+    },
+    {
+      "name": "Cold Shoulder",
+      "input": "→ → Y",
+      "type": "Спецприём",
+      "description": "Силовой рывок плечом с эффектом заморозки."
+    },
+    {
+      "name": "Ice Clone",
+      "input": "↓ ← B",
+      "type": "Спецприём",
+      "description": "Создаёт ледяного клона, от которого враг может получить урон."
+    },
+    {
+      "name": "Fatal Blow — Frozen Death",
+      "input": "LT + RT",
+      "type": "Fatal Blow",
+      "description": "Серия ударов с заморозкой конечностей и разрушением тела врага."
+    },
+    {
+      "name": "Fatality 1 — Spine Rip",
+      "input": "↓ → ↓ A",
+      "type": "Fatality",
+      "description": "Классическое добивание: вырывает позвоночник с головой."
+    },
+    {
+      "name": "Fatality 2 — Deep Freeze",
+      "input": "← → ↓ Y",
+      "type": "Fatality",
+      "description": "Замораживает врага изнутри и разрывает его на куски."
+    },
+    {
+      "name": "Brutality — Ice Breaker",
+      "input": "↓ + A",
+      "type": "Brutality",
+      "description": "Сокрушительный удар, разбивающий врага в лёд."
+    }
+  ]
+},
+{
+  "name": "Johnny Cage",
+  "image": "images/Jony.png",
+  "moves": [
+    {
+      "name": "Shadow Kick",
+      "input": "← → A",
+      "type": "Спецприём",
+      "description": "Молниеносный удар ногой с теневым следом, пробивает врага насквозь."
+    },
+    {
+      "name": "Force Ball",
+      "input": "↓ → X",
+      "type": "Спецприём",
+      "description": "Энергетический снаряд, замедляющий или ускоряющийся при определённой комбинации."
+    },
+    {
+      "name": "Nut Punch",
+      "input": "↓ ← B",
+      "type": "Спецприём",
+      "description": "Классический удар ниже пояса с пафосной анимацией."
+    },
+    {
+      "name": "Rising Uppercut",
+      "input": "→ ↓ Y",
+      "type": "Спецприём",
+      "description": "Подбрасывающий удар кулаком, подходит для начала комбо."
+    },
+    {
+      "name": "Fatal Blow — Star Power",
+      "input": "LT + RT",
+      "type": "Fatal Blow",
+      "description": "Зрелищная серия атак под светом софитов и вспышек камеры."
+    },
+    {
+      "name": "Fatality 1 — Hollywood Walk of Pain",
+      "input": "↓ → ↓ A",
+      "type": "Fatality",
+      "description": "Johnny избивает врага на красной дорожке с голливудскими эффектами."
+    },
+    {
+      "name": "Fatality 2 — Paparazzi",
+      "input": "← → ↓ Y",
+      "type": "Fatality",
+      "description": "Враг уничтожается серией фотоспышек и камерных атак."
+    },
+    {
+      "name": "Brutality — Shadow End",
+      "input": "↓ + A",
+      "type": "Brutality",
+      "description": "Теневой удар, разрывающий врага на куски в стиле кинофинала."
+    }
+  ]
+},
+{
+  "name": "Kenshi",
+  "image": "images/Kenshi.png",
+  "moves": [
+    {
+      "name": "Sento Stab",
+      "input": "↓ → X",
+      "type": "Спецприём",
+      "description": "Метает меч вперёд, пронзая врага."
+    },
+    {
+      "name": "Spirit Slash",
+      "input": "← → A",
+      "type": "Спецприём",
+      "description": "Атака духовной формой меча с дистанции."
+    },
+    {
+      "name": "Telekinetic Push",
+      "input": "↓ ← Y",
+      "type": "Спецприём",
+      "description": "Телепатически отталкивает врага от себя."
+    },
+    {
+      "name": "Spiritual Echo",
+      "input": "→ ↓ B",
+      "type": "Спецприём",
+      "description": "Создаёт призрачную копию, атакующую синхронно с Kenshi."
+    },
+    {
+      "name": "Fatal Blow — Sword and Soul",
+      "input": "LT + RT",
+      "type": "Fatal Blow",
+      "description": "Kenshi наносит удары вместе с духом, пронзая врага мечом."
+    },
+    {
+      "name": "Fatality 1 — Mind Split",
+      "input": "↓ → ↓ A",
+      "type": "Fatality",
+      "description": "Разрезает врага надвое управляемым мечом и разрывает разум."
+    },
+    {
+      "name": "Fatality 2 — Blind Fury",
+      "input": "← → ↓ Y",
+      "type": "Fatality",
+      "description": "Слепая ярость: серия быстрых атак мечом с финальным разрубом."
+    },
+    {
+      "name": "Brutality — Soul Slice",
+      "input": "↓ + A",
+      "type": "Brutality",
+      "description": "Добивающий удар с эффектом разделения духа и тела врага."
+    }
+  ]
+},
+{
+  "name": "Kitana",
+  "image": "images/Kitana.png",
+  "moves": [
+    {
+      "name": "Fan Throw",
+      "input": "↓ → X",
+      "type": "Спецприём",
+      "description": "Метает боевой веер, который разрезает и ослабляет врага."
+    },
+    {
+      "name": "Square Boost",
+      "input": "↓ ← A",
+      "type": "Спецприём",
+      "description": "Взмывает вверх с вращающимися веерами, атакуя воздух."
+    },
+    {
+      "name": "Fan-Nado",
+      "input": "← → B",
+      "type": "Спецприём",
+      "description": "Создаёт смерч из вееров, который подбрасывает врага."
+    },
+    {
+      "name": "Royal Protection",
+      "input": "→ ↓ Y",
+      "type": "Спецприём",
+      "description": "Создаёт энергетический щит, блокирующий входящий урон."
+    },
+    {
+      "name": "Fatal Blow — Queen’s Wrath",
+      "input": "LT + RT",
+      "type": "Fatal Blow",
+      "description": "Серия ударов веерами, завершающаяся взрывом королевской энергии."
+    },
+    {
+      "name": "Fatality 1 — Royal Execution",
+      "input": "↓ → ↓ A",
+      "type": "Fatality",
+      "description": "Kitana обезглавливает врага веерами, а затем рассеивает его тело."
+    },
+    {
+      "name": "Fatality 2 — Kiss of Death",
+      "input": "← → ↓ Y",
+      "type": "Fatality",
+      "description": "Отравляет врага поцелуем, вызывая взрыв внутренностей."
+    },
+    {
+      "name": "Brutality — Fan Finish",
+      "input": "↓ + A",
+      "type": "Brutality",
+      "description": "Молниеносное добивание веерами с рассечением тела."
+    }
+  ]
+},
+{
+  "name": "Mileena",
+  "image": "images/Melena.png",
+  "moves": [
+    {
+      "name": "Sai Throw",
+      "input": "↓ → X",
+      "type": "Спецприём",
+      "description": "Бросает два сай в противника, нанося урон с расстояния."
+    },
+    {
+      "name": "Teleport Drop",
+      "input": "↓ ← B",
+      "type": "Спецприём",
+      "description": "Телепортируется вверх и падает на врага с ударом."
+    },
+    {
+      "name": "Low Pounce",
+      "input": "← → A",
+      "type": "Спецприём",
+      "description": "Прыжок с низкой атакой, сбивающий врага с ног."
+    },
+    {
+      "name": "Feral Bite",
+      "input": "→ ↓ Y",
+      "type": "Спецприём",
+      "description": "Милена кусает врага, восстанавливая себе здоровье."
+    },
+    {
+      "name": "Fatal Blow — Savage Beauty",
+      "input": "LT + RT",
+      "type": "Fatal Blow",
+      "description": "Быстрая, жестокая серия ударов с использованием клыков и сай."
+    },
+    {
+      "name": "Fatality 1 — Tooth and Gore",
+      "input": "↓ → ↓ A",
+      "type": "Fatality",
+      "description": "Милена вонзается в врага и разрывает его клыками на части."
+    },
+    {
+      "name": "Fatality 2 — Royal Hunger",
+      "input": "← → ↓ Y",
+      "type": "Fatality",
+      "description": "Кровавое пиршество, заканчивающееся поеданием лица врага."
+    },
+    {
+      "name": "Brutality — Devour",
+      "input": "↓ + A",
+      "type": "Brutality",
+      "description": "Милена добивает врага безжалостным укусом в шею."
+    }
+  ]
+},
+{
+  "name": "Baraka",
+  "image": "images/Baraka.png",
+  "moves": [
+    {
+      "name": "Blade Swipe",
+      "input": "↓ → X",
+      "type": "Спецприём",
+      "description": "Мощный удар лезвиями вперёд, сбивающий врага с ног."
+    },
+    {
+      "name": "Blade Charge",
+      "input": "← → A",
+      "type": "Спецприём",
+      "description": "Baraka бросается вперёд и пробивает врага грудью и клинками."
+    },
+    {
+      "name": "Gutted",
+      "input": "↓ ← Y",
+      "type": "Спецприём",
+      "description": "Впивается лезвиями в живот врага, нанося большой урон."
+    },
+    {
+      "name": "Tarkatan Roar",
+      "input": "→ ↓ B",
+      "type": "Спецприём",
+      "description": "Испускает боевой рёв, усиливающий атаки."
+    },
+    {
+      "name": "Fatal Blow — Savage Onslaught",
+      "input": "LT + RT",
+      "type": "Fatal Blow",
+      "description": "Серия варварских ударов с кровавыми всплесками и финальной атакой лезвиями."
+    },
+    {
+      "name": "Fatality 1 — Heart Ripper",
+      "input": "↓ → ↓ A",
+      "type": "Fatality",
+      "description": "Baraka вырывает сердце врага и съедает его с улыбкой."
+    },
+    {
+      "name": "Fatality 2 — Blade Feast",
+      "input": "← → ↓ Y",
+      "type": "Fatality",
+      "description": "Расчленяет врага потоком ударов клинками с финальным рассечением."
+    },
+    {
+      "name": "Brutality — Frenzy Slash",
+      "input": "↓ + A",
+      "type": "Brutality",
+      "description": "Впадает в ярость и разрывает врага в клочья."
+    }
+  ]
+},
+{
+  "name": "Raiden",
+  "image": "images/Reyden.png",
+  "moves": [
+    {
+      "name": "Electric Fly",
+      "input": "← → A",
+      "type": "Спецприём",
+      "description": "Raiden летит вперёд с электрическим телом и сбивает врага."
+    },
+    {
+      "name": "Lightning Bolt",
+      "input": "↓ → X",
+      "type": "Спецприём",
+      "description": "Запускает снаряд молнии по врагу с расстояния."
+    },
+    {
+      "name": "Sparkport",
+      "input": "↓ ↓ B",
+      "type": "Спецприём",
+      "description": "Мгновенная телепортация за спину противника."
+    },
+    {
+      "name": "Storm Guard",
+      "input": "→ ↓ Y",
+      "type": "Спецприём",
+      "description": "Создаёт энергетическую защиту, которая отражает снаряды."
+    },
+    {
+      "name": "Fatal Blow — Thunder Wrath",
+      "input": "LT + RT",
+      "type": "Fatal Blow",
+      "description": "Мощная комбинация ударов током с подбрасыванием врага и финальным ударом молнией сверху."
+    },
+    {
+      "name": "Fatality 1 — Electric Decimation",
+      "input": "↓ → ↓ A",
+      "type": "Fatality",
+      "description": "Raiden испепеляет врага серией молний до скелета и далее."
+    },
+    {
+      "name": "Fatality 2 — Divine Strike",
+      "input": "← → ↓ Y",
+      "type": "Fatality",
+      "description": "Наносит удар молнией сверху, разрывая врага на части."
+    },
+    {
+      "name": "Brutality — Shock Drop",
+      "input": "↓ + A",
+      "type": "Brutality",
+      "description": "Добивание ударом, вызывающим взрыв энергии изнутри врага."
+    }
+  ]
+},
+{
+  "name": "Reptile",
+  "image": "images/Reptile.png",
+  "moves": [
+    {
+      "name": "Acid Spit",
+      "input": "↓ → X",
+      "type": "Спецприём",
+      "description": "Выплёвывает кислоту, которая наносит урон с расстояния и может разъедать броню."
+    },
+    {
+      "name": "Force Ball",
+      "input": "← → A",
+      "type": "Спецприём",
+      "description": "Зелёный энергетический снаряд, замедляющий или ускоряющийся в зависимости от комбинации."
+    },
+    {
+      "name": "Slide",
+      "input": "↓ ← B",
+      "type": "Спецприём",
+      "description": "Быстрый подкатывающий удар, сбивающий врага с ног."
+    },
+    {
+      "name": "Invisibility",
+      "input": "→ ↓ Y",
+      "type": "Спецприём",
+      "description": "Reptile становится невидимым на короткое время, усложняя противнику прицеливание."
+    },
+    {
+      "name": "Fatal Blow — Lethal Mutation",
+      "input": "LT + RT",
+      "type": "Fatal Blow",
+      "description": "Атака с использованием силы превращения в зверя и кислотного взрыва."
+    },
+    {
+      "name": "Fatality 1 — Acid Pool",
+      "input": "↓ → ↓ A",
+      "type": "Fatality",
+      "description": "Создаёт кислотную лужу под врагом, разъедающую его до костей."
+    },
+    {
+      "name": "Fatality 2 — Tongue Lash",
+      "input": "← → ↓ Y",
+      "type": "Fatality",
+      "description": "Оборачивает врага своим длинным языком, разрывая его пополам."
+    },
+    {
+      "name": "Brutality — Dissolve",
+      "input": "↓ + A",
+      "type": "Brutality",
+      "description": "Кислотный удар, который растворяет врага на месте."
+    }
+  ]
+},
+{
+  "name": "Shang Tsung",
+  "image": "images/Shang Tsung.png",
+  "moves": [
+    {
+      "name": "Soul Steal",
+      "input": "↓ → X",
+      "type": "Спецприём",
+      "description": "Похищает душу врага и временно получает доступ к его внешности и приёмам."
+    },
+    {
+      "name": "Fire Skull",
+      "input": "← → A",
+      "type": "Спецприём",
+      "description": "Запускает череп в огне, нанося урон на расстоянии."
+    },
+    {
+      "name": "Ground Eruption",
+      "input": "↓ ← B",
+      "type": "Спецприём",
+      "description": "Вызывает взрыв лавы под ногами врага."
+    },
+    {
+      "name": "Shape Shift",
+      "input": "→ ↓ Y",
+      "type": "Спецприём",
+      "description": "На короткое время превращается в другого персонажа и использует его базовые приёмы."
+    },
+    {
+      "name": "Fatal Blow — Sorcerer’s Wrath",
+      "input": "LT + RT",
+      "type": "Fatal Blow",
+      "description": "Магическая комбинация с черепами, заклинаниями и финальным поглощением души врага."
+    },
+    {
+      "name": "Fatality 1 — Soul Extraction",
+      "input": "↓ → ↓ A",
+      "type": "Fatality",
+      "description": "Вырывает душу врага и показывает, как она мучается внутри его тела."
+    },
+    {
+      "name": "Fatality 2 — Morphing Mayhem",
+      "input": "← → ↓ Y",
+      "type": "Fatality",
+      "description": "Превращается в других бойцов и уничтожает врага их приёмами."
+    },
+    {
+      "name": "Brutality — Essence Drain",
+      "input": "↓ + A",
+      "type": "Brutality",
+      "description": "Поглощает душу врага добивающим магическим взрывом."
+    }
+  ]
+},
+{
+  "name": "Smoke",
+  "image": "images/Smoke.png",
+  "moves": [
+    {
+      "name": "Smoke Bomb",
+      "input": "↓ → X",
+      "type": "Спецприём",
+      "description": "Бросает дымовую бомбу, которая дезориентирует врага."
+    },
+    {
+      "name": "Teleport Punch",
+      "input": "↓ ← A",
+      "type": "Спецприём",
+      "description": "Исчезает в дыму и внезапно появляется за спиной врага с ударом."
+    },
+    {
+      "name": "Smoke Strike",
+      "input": "← → B",
+      "type": "Спецприём",
+      "description": "Быстрая атака с перемещением через дым вперёд."
+    },
+    {
+      "name": "Vanish Counter",
+      "input": "→ ↓ Y",
+      "type": "Спецприём",
+      "description": "Исчезает при ударе и контратакует из дыма."
+    },
+    {
+      "name": "Fatal Blow — Ashes to Ashes",
+      "input": "LT + RT",
+      "type": "Fatal Blow",
+      "description": "Серия телепортирующих ударов и финальный взрыв дымовой энергии внутри врага."
+    },
+    {
+      "name": "Fatality 1 — Smoke Screen",
+      "input": "↓ → ↓ A",
+      "type": "Fatality",
+      "description": "Окутывает врага дымом и разрывает его изнутри."
+    },
+    {
+      "name": "Fatality 2 — Suffocation",
+      "input": "← → ↓ Y",
+      "type": "Fatality",
+      "description": "Заставляет врага задохнуться, вдыхая яд из дыма."
+    },
+    {
+      "name": "Brutality — Fade Out",
+      "input": "↓ + A",
+      "type": "Brutality",
+      "description": "Мгновенное добивание, после которого Smoke исчезает в тумане."
+    }
+  ]
+},
+{
+  "name": "Havik",
+  "image": "images/Havik.png",
+  "moves": [
+    {
+      "name": "Torso Spin",
+      "input": "↓ → X",
+      "type": "Спецприём",
+      "description": "Крутит верхнюю часть тела как пропеллер, нанося урон врагу."
+    },
+    {
+      "name": "Leg Whip",
+      "input": "← → A",
+      "type": "Спецприём",
+      "description": "Отрывает себе ногу и бьёт ею по противнику."
+    },
+    {
+      "name": "Self Mutilation",
+      "input": "↓ ← B",
+      "type": "Спецприём",
+      "description": "Наносит себе урон, но усиливает атаки на короткое время."
+    },
+    {
+      "name": "Chaos Pulse",
+      "input": "→ ↓ Y",
+      "type": "Спецприём",
+      "description": "Выпускает энергетический импульс, дестабилизирующий врага."
+    },
+    {
+      "name": "Fatal Blow — Lawless Rage",
+      "input": "LT + RT",
+      "type": "Fatal Blow",
+      "description": "Сумасшедшая комбинация атак с отрыванием частей тела и мощным финалом."
+    },
+    {
+      "name": "Fatality 1 — Head Twist",
+      "input": "↓ → ↓ A",
+      "type": "Fatality",
+      "description": "Havik выкручивает себе шею, а затем вырывает голову врагу."
+    },
+    {
+      "name": "Fatality 2 — Chaotic Spiral",
+      "input": "← → ↓ Y",
+      "type": "Fatality",
+      "description": "Входит в бешеный вращающийся режим и кромсает врага на куски."
+    },
+    {
+      "name": "Brutality — Disorder Strike",
+      "input": "↓ + A",
+      "type": "Brutality",
+      "description": "Удар хаоса, разрывающий врага в вихре магии и крови."
+    }
+  ]
+},
+{
+  "name": "Geras",
+  "image": "images/Geras.png",
+  "moves": [
+    {
+      "name": "Time Stop",
+      "input": "↓ → X",
+      "type": "Спецприём",
+      "description": "Останавливает время вокруг врага, позволяя беспрепятственно атаковать."
+    },
+    {
+      "name": "Sand Trap",
+      "input": "← → A",
+      "type": "Спецприём",
+      "description": "Захватывает врага песочной рукой из-под земли."
+    },
+    {
+      "name": "Rewind",
+      "input": "↓ ← B",
+      "type": "Спецприём",
+      "description": "Откатывает позицию Geras на несколько секунд назад, восстанавливая здоровье и позицию."
+    },
+    {
+      "name": "Chrono Slam",
+      "input": "→ ↓ Y",
+      "type": "Спецприём",
+      "description": "Мощный захват, при котором враг стареет и страдает от временной агонии."
+    },
+    {
+      "name": "Fatal Blow — Time Breaker",
+      "input": "LT + RT",
+      "type": "Fatal Blow",
+      "description": "Останавливает врага во времени, а затем наносит серию смертельных ударов в ускоренной фазе."
+    },
+    {
+      "name": "Fatality 1 — Dust to Dust",
+      "input": "↓ → ↓ A",
+      "type": "Fatality",
+      "description": "Песок заполняет тело врага и разрывает его изнутри."
+    },
+    {
+      "name": "Fatality 2 — Time Collapse",
+      "input": "← → ↓ Y",
+      "type": "Fatality",
+      "description": "Geras останавливает время и разрушает врага в нескольких временных линиях одновременно."
+    },
+    {
+      "name": "Brutality — Chrono Crash",
+      "input": "↓ + A",
+      "type": "Brutality",
+      "description": "Сильный удар с временным искажением, взрывающий врага в песок и прах."
+    }
+  ]
+},
+{
+  "name": "Li Mei",
+  "image": "images/Li Mei.png",
+  "moves": [
+    {
+      "name": "Orb Toss",
+      "input": "↓ → X",
+      "type": "Спецприём",
+      "description": "Бросает энергетическую сферу, которая взрывается при соприкосновении с врагом."
+    },
+    {
+      "name": "Phoenix Rising",
+      "input": "← → A",
+      "type": "Спецприём",
+      "description": "Прыжок с флипом вперёд и удар ногой с вращением в воздухе."
+    },
+    {
+      "name": "Guard Break",
+      "input": "↓ ← B",
+      "type": "Спецприём",
+      "description": "Атака, пробивающая блок и оглушающая врага."
+    },
+    {
+      "name": "Justice Flame",
+      "input": "→ ↓ Y",
+      "type": "Спецприём",
+      "description": "Поджигает врага магией правосудия, нанося урон с течением времени."
+    },
+    {
+      "name": "Fatal Blow — Order Reign",
+      "input": "LT + RT",
+      "type": "Fatal Blow",
+      "description": "Li Mei выпускает серию энергетических ударов, заканчивающихся гигантским взрывом."
+    },
+    {
+      "name": "Fatality 1 — Starfall Justice",
+      "input": "↓ → ↓ A",
+      "type": "Fatality",
+      "description": "Огненное копьё пронзает врага сверху, расщепляя его тело."
+    },
+    {
+      "name": "Fatality 2 — Divine Execution",
+      "input": "← → ↓ Y",
+      "type": "Fatality",
+      "description": "Li Mei вызывает столб света, испепеляющий врага на месте."
+    },
+    {
+      "name": "Brutality — Flame Kick",
+      "input": "↓ + A",
+      "type": "Brutality",
+      "description": "Финальный удар ногой с магией огня, разрывающий врага."
+    }
+  ]
+},
+{
+  "name": "Ashrah",
+  "image": "images/Ashrah.png",
+  "moves": [
+    {
+      "name": "Heaven’s Light",
+      "input": "↓ → X",
+      "type": "Спецприём",
+      "description": "Выпускает луч святой энергии, который отталкивает врага и наносит урон."
+    },
+    {
+      "name": "Vanishing Wind",
+      "input": "← → A",
+      "type": "Спецприём",
+      "description": "Мгновенное перемещение сквозь врага с ударом мечом."
+    },
+    {
+      "name": "Purification Spin",
+      "input": "↓ ← B",
+      "type": "Спецприём",
+      "description": "Крутится с мечом в свете, нанося множественные удары по окружению."
+    },
+    {
+      "name": "Halo Shield",
+      "input": "→ ↓ Y",
+      "type": "Спецприём",
+      "description": "Создаёт световую защиту, отражающую один вражеский приём."
+    },
+    {
+      "name": "Fatal Blow — Light's Redemption",
+      "input": "LT + RT",
+      "type": "Fatal Blow",
+      "description": "Ashrah вызывает вспышку света и атакует врага серией очищающих ударов мечом."
+    },
+    {
+      "name": "Fatality 1 — Cleansing Flame",
+      "input": "↓ → ↓ A",
+      "type": "Fatality",
+      "description": "Испепеляет врага священным огнём до скелета, оставляя только пепел."
+    },
+    {
+      "name": "Fatality 2 — Sacred Severance",
+      "input": "← → ↓ Y",
+      "type": "Fatality",
+      "description": "Режет врага мечом света на куски с точностью хирурга."
+    },
+    {
+      "name": "Brutality — Divine Cut",
+      "input": "↓ + A",
+      "type": "Brutality",
+      "description": "Финальный удар мечом, вызывающий взрыв света, разрывающий врага."
+    }
+  ]
+},
+{
+  "name": "Nitara",
+  "image": "images/Nitara.png",
+  "moves": [
+    {
+      "name": "Blood Spit",
+      "input": "↓ → X",
+      "type": "Спецприём",
+      "description": "Выплёвывает сгусток крови, который наносит урон и восстанавливает здоровье."
+    },
+    {
+      "name": "Winged Escape",
+      "input": "← → A",
+      "type": "Спецприём",
+      "description": "Прыжок с махом крыльев, позволяет быстро отойти или приблизиться к врагу."
+    },
+    {
+      "name": "Vampiric Slash",
+      "input": "↓ ← B",
+      "type": "Спецприём",
+      "description": "Серия быстрых ударов когтями, восстанавливающая часть здоровья."
+    },
+    {
+      "name": "Sky Talon",
+      "input": "→ ↓ Y",
+      "type": "Спецприём",
+      "description": "Nitara пикирует сверху вниз с мощным ударом когтями."
+    },
+    {
+      "name": "Fatal Blow — Crimson Dusk",
+      "input": "LT + RT",
+      "type": "Fatal Blow",
+      "description": "Прокусывает врага, подбрасывает в воздух и добивает серией ударов крыльев и крови."
+    },
+    {
+      "name": "Fatality 1 — Blood Bath",
+      "input": "↓ → ↓ A",
+      "type": "Fatality",
+      "description": "Разрывает врага и купается в его крови, смеясь."
+    },
+    {
+      "name": "Fatality 2 — Death Flight",
+      "input": "← → ↓ Y",
+      "type": "Fatality",
+      "description": "Поднимает врага в воздух и бросает его с огромной высоты на шипы."
+    },
+    {
+      "name": "Brutality — Fang Strike",
+      "input": "↓ + A",
+      "type": "Brutality",
+      "description": "Мгновенный укус в шею врага, после чего он падает мёртвым."
+    }
+  ]
+},
+{
+  "name": "General Shao",
+  "image": "images/General Shao.png",
+  "moves": [
+    {
+      "name": "Skull Crusher",
+      "input": "↓ → X",
+      "type": "Спецприём",
+      "description": "Мощный удар топором по голове, оглушает врага."
+    },
+    {
+      "name": "Forward Charge",
+      "input": "← → A",
+      "type": "Спецприём",
+      "description": "Генерал врывается вперёд с плечом, сбивая противника с ног."
+    },
+    {
+      "name": "War Cry",
+      "input": "↓ ← B",
+      "type": "Спецприём",
+      "description": "Боевой рёв усиливает следующие удары и наносит урон вблизи."
+    },
+    {
+      "name": "Axe Quake",
+      "input": "→ ↓ Y",
+      "type": "Спецприём",
+      "description": "Удар топором по земле вызывает сотрясение, сбивая врагов."
+    },
+    {
+      "name": "Fatal Blow — Wrath of Outworld",
+      "input": "LT + RT",
+      "type": "Fatal Blow",
+      "description": "Серия ударов топором, заканчивающаяся разрушительным вертикальным расщеплением."
+    },
+    {
+      "name": "Fatality 1 — Decapitator",
+      "input": "↓ → ↓ A",
+      "type": "Fatality",
+      "description": "Мощный замах отрубает голову врагу и разбивает её об землю."
+    },
+    {
+      "name": "Fatality 2 — Royal Execution",
+      "input": "← → ↓ Y",
+      "type": "Fatality",
+      "description": "Захватывает врага и наносит смертельный удар в грудь топором."
+    },
+    {
+      "name": "Brutality — Axe End",
+      "input": "↓ + A",
+      "type": "Brutality",
+      "description": "Последний удар топором раскалывает врага пополам."
+    }
+  ]
+},
+{
+  "name": "Reiko",
+  "image": "images/Reiko.png",
+  "moves": [
+    {
+      "name": "Star Throw",
+      "input": "↓ → X",
+      "type": "Спецприём",
+      "description": "Бросает острую метательную звезду, наносящую урон издали."
+    },
+    {
+      "name": "Reiko Bomb",
+      "input": "← → A",
+      "type": "Спецприём",
+      "description": "Мощный удар кулаком с взрывной энергией."
+    },
+    {
+      "name": "Savage Leap",
+      "input": "↓ ← B",
+      "type": "Спецприём",
+      "description": "Прыжок вперёд с ударом локтем, пробивающим блоки."
+    },
+    {
+      "name": "Neck Breaker",
+      "input": "→ ↓ Y",
+      "type": "Спецприём",
+      "description": "Захват врага и резкий слом шеи."
+    },
+    {
+      "name": "Fatal Blow — Bloody Ambush",
+      "input": "LT + RT",
+      "type": "Fatal Blow",
+      "description": "Быстрый рывок, захват и жестокая серия ударов по телу и голове врага."
+    },
+    {
+      "name": "Fatality 1 — Crimson Storm",
+      "input": "↓ → ↓ A",
+      "type": "Fatality",
+      "description": "Звезды вонзаются во врага, а затем Reiko разрывает его пополам в прыжке."
+    },
+    {
+      "name": "Fatality 2 — Skull Bash",
+      "input": "← → ↓ Y",
+      "type": "Fatality",
+      "description": "Многократно бьёт голову врага об пол, пока она не раскалывается."
+    },
+    {
+      "name": "Brutality — Blood Spear",
+      "input": "↓ + A",
+      "type": "Brutality",
+      "description": "Завершающий удар в живот с выбросом крови и внутренностей."
+    }
+  ]
+},
+{
+  "name": "Sindel",
+  "image": "images/Sindel.png",
+  "moves": [
+    {
+      "name": "Banshee Scream",
+      "input": "↓ → X",
+      "type": "Спецприём",
+      "description": "Оглушающий крик, временно парализующий врага и открывающий его для атаки."
+    },
+    {
+      "name": "Hair Whip",
+      "input": "← → A",
+      "type": "Спецприём",
+      "description": "Мгновенный удар волосами на средней дистанции с высоким уроном."
+    },
+    {
+      "name": "Royal Levitate",
+      "input": "↓ ← B",
+      "type": "Спецприём",
+      "description": "Поднимает себя в воздух, позволяя избежать атак и наносить удары сверху."
+    },
+    {
+      "name": "Decree of Pain",
+      "input": "→ ↓ Y",
+      "type": "Спецприём",
+      "description": "Магический заряд, отталкивающий врага назад волной силы."
+    },
+    {
+      "name": "Fatal Blow — Queen’s Wrath",
+      "input": "LT + RT",
+      "type": "Fatal Blow",
+      "description": "Крик, разрывающий барабанные перепонки врага, сопровождаемый взрывом и ударами волос."
+    },
+    {
+      "name": "Fatality 1 — Scream Splitter",
+      "input": "↓ → ↓ A",
+      "type": "Fatality",
+      "description": "Своим криком разрывает тело врага вдоль пополам."
+    },
+    {
+      "name": "Fatality 2 — Royal Dismemberment",
+      "input": "← → ↓ Y",
+      "type": "Fatality",
+      "description": "Снимает кожу с врага с помощью волос и разрывает конечности."
+    },
+    {
+      "name": "Brutality — Sonic End",
+      "input": "↓ + A",
+      "type": "Brutality",
+      "description": "Финальный ультра-крик разрывает тело врага звуковой волной."
+    }
+  ]
+},
+{
+  "name": "Omni-Man",
+  "guest": true,
+  "image": "images/Omni-Man.png",
+  "moves": [
+    {
+      "name": "Viltrumite Rush",
+      "input": "↓ → X",
+      "type": "Спецприём",
+      "description": "Молниеносный рывок через противника с разрушительным ударом."
+    },
+    {
+      "name": "Ground Pound",
+      "input": "← → A",
+      "type": "Спецприём",
+      "description": "Удар по земле вызывает взрывную волну, сбивающую врагов поблизости."
+    },
+    {
+      "name": "Aerial Punish",
+      "input": "↓ ← B",
+      "type": "Спецприём",
+      "description": "Поднимает врага в воздух и ударяет его об землю."
+    },
+    {
+      "name": "Fatal Blow — Planet Conqueror",
+      "input": "LT + RT",
+      "type": "Fatal Blow",
+      "description": "Цепь сокрушительных ударов в стиле Viltrumite с финальным пробитием насквозь."
+    },
+    {
+      "name": "Fatality 1 — Train Trauma",
+      "input": "↓ → ↓ A",
+      "type": "Fatality",
+      "description": "Omni-Man проталкивает врага сквозь проходящий поезд, разрывая его на части."
+    },
+    {
+      "name": "Brutality — One Punch",
+      "input": "↓ + A",
+      "type": "Brutality",
+      "description": "Один удар в голову, вызывающий мгновенное разрушение черепа."
+    }
+  ]
+},
+{
+  "name": "Peacemaker",
+  "guest": true,
+  "image": "images/Peacemaker.png",
+  "moves": [
+    {
+      "name": "Peace Shot",
+      "input": "↓ → X",
+      "type": "Спецприём",
+      "description": "Стреляет из пистолета на средней дистанции, нанося прямой урон."
+    },
+    {
+      "name": "Eagle Smash",
+      "input": "← → A",
+      "type": "Спецприём",
+      "description": "Призывает орла, который атакует врага сверху."
+    },
+    {
+      "name": "Explosive Justice",
+      "input": "↓ ← B",
+      "type": "Спецприём",
+      "description": "Бросает гранату с задержкой, которая наносит массовый урон при взрыве."
+    },
+    {
+      "name": "Shield Toss",
+      "input": "→ ↓ Y",
+      "type": "Спецприём",
+      "description": "Метает свой шлем как бумеранг, поражая врага дважды."
+    },
+    {
+      "name": "Fatal Blow — Peacemaker Protocol",
+      "input": "LT + RT",
+      "type": "Fatal Blow",
+      "description": "Серия ударов шлемом, выстрелов и мощный взрыв на финале."
+    },
+    {
+      "name": "Fatality 1 — Explosive Peace",
+      "input": "↓ → ↓ A",
+      "type": "Fatality",
+      "description": "Засовывает гранату в рот врага и отходит, наблюдая взрыв с ухмылкой."
+    },
+    {
+      "name": "Brutality — Silent Justice",
+      "input": "↓ + A",
+      "type": "Brutality",
+      "description": "Один меткий выстрел в голову завершает бой мгновенно."
+    }
+  ]
+},
+{
+  "name": "Homelander",
+  "guest": true,
+  "image": "images/Homelander.png",
+  "moves": [
+    {
+      "name": "Laser Eyes",
+      "input": "↓ → X",
+      "type": "Спецприём",
+      "description": "Выпускает лучи из глаз, прожигающие врага на расстоянии."
+    },
+    {
+      "name": "Sky Dive",
+      "input": "← → A",
+      "type": "Спецприём",
+      "description": "Поднимается в воздух и пикирует с ударом плечом в землю."
+    },
+    {
+      "name": "Super Breath",
+      "input": "↓ ← B",
+      "type": "Спецприём",
+      "description": "Использует мощный выдох, отбрасывая врага и замедляя его."
+    },
+    {
+      "name": "Aerial Grapple",
+      "input": "→ ↓ Y",
+      "type": "Спецприём",
+      "description": "Захватывает врага и поднимает в воздух для броска об землю."
+    },
+    {
+      "name": "Fatal Blow — Patriot's Fury",
+      "input": "LT + RT",
+      "type": "Fatal Blow",
+      "description": "Сочетает лазеры, удары и пронос через небо с падением врага."
+    },
+    {
+      "name": "Fatality 1 — Laser Dissection",
+      "input": "↓ → ↓ A",
+      "type": "Fatality",
+      "description": "Разрезает врага пополам лазерами с холодной ухмылкой."
+    },
+    {
+      "name": "Brutality — Unhinged",
+      "input": "↓ + A",
+      "type": "Brutality",
+      "description": "Внезапно взрывается яростью и испепеляет врага полностью."
+    }
+  ]
+},
+{
+  "name": "Ghostface",
+  "guest": true,
+  "image": "images/Ghostface.png",
+  "moves": [
+    {
+      "name": "Knife Dash",
+      "input": "↓ → X",
+      "type": "Спецприём",
+      "description": "Молниеносный рывок с ножом, наносит быстрый урон и пронзает врага."
+    },
+    {
+      "name": "Phone Distraction",
+      "input": "← → A",
+      "type": "Спецприём",
+      "description": "Имитирует звонок, на мгновение оглушая врага и открывая окно для атаки."
+    },
+    {
+      "name": "Stealth Step",
+      "input": "↓ ← B",
+      "type": "Спецприём",
+      "description": "Исчезает в дыму и мгновенно появляется сзади врага."
+    },
+    {
+      "name": "Bloody Combo",
+      "input": "→ ↓ Y",
+      "type": "Спецприём",
+      "description": "Серия быстрых ударов ножом по телу и горлу врага."
+    },
+    {
+      "name": "Fatal Blow — Final Cut",
+      "input": "LT + RT",
+      "type": "Fatal Blow",
+      "description": "Ghostface наносит удар в живот, затем в спину, а финальный — по шее, всё в стиле хоррора."
+    },
+    {
+      "name": "Fatality 1 — Slasher's End",
+      "input": "↓ → ↓ A",
+      "type": "Fatality",
+      "description": "Ghostface срывает маску врага и множественными ударами ножом расчленяет его в стиле триллера."
+    },
+    {
+      "name": "Brutality — One Stab Kill",
+      "input": "↓ + A",
+      "type": "Brutality",
+      "description": "Молниеносный удар ножом в сердце завершает бой без предупреждения."
+    }
+  ]
+}
+
+
+
+
+  ],
+  "kameos": [
+   {
+  "name": "Scorpion (Kameo)",
+  "image": "images/Scorpion (Kameo).png",
+  "moves": [
+    {
+      "name": "Get Over Here!",
+      "input": "→ + Assist",
+      "type": "Kameo Move",
+      "description": "Классический гарпун, притягивает врага к игроку."
+    },
+    {
+      "name": "Hellfire Blast",
+      "input": "↓ + Assist",
+      "type": "Kameo Move",
+      "description": "Scorpion исчезает и наносит удар из огня под ногами врага."
+    },
+    {
+      "name": "Teleport Slash",
+      "input": "← + Assist",
+      "type": "Kameo Move",
+      "description": "Телепортируется за врага и наносит удар сзади."
+    }
+  ]
+    },
+    {
+  "name": "Sub-Zero (Kameo)",
+  "image": "images/Sub-Zero (Kameo).png",
+  "moves": [
+    {
+      "name": "Ice Ball",
+      "input": "→ + Assist",
+      "type": "Kameo Move",
+      "description": "Выпускает замораживающий снаряд, обездвиживая противника на короткое время."
+    },
+    {
+      "name": "Slide Assist",
+      "input": "↓ + Assist",
+      "type": "Kameo Move",
+      "description": "Подкатывается под врага, сбивая его с ног ледяным ударом."
+    },
+    {
+      "name": "Ice Wall",
+      "input": "← + Assist",
+      "type": "Kameo Move",
+      "description": "Создаёт стену льда, которая может блокировать атаки или отразить снаряды."
+    }
+  ]
+},
+{
+  "name": "Sonya Blade (Kameo)",
+  "image": "images/Sonya Blade (Kameo).png",
+  "moves": [
+    {
+      "name": "Energy Rings",
+      "input": "→ + Assist",
+      "type": "Kameo Move",
+      "description": "Выпускает кольца энергии, нанося урон на расстоянии и прерывая атаки врага."
+    },
+    {
+      "name": "Leg Grab",
+      "input": "↓ + Assist",
+      "type": "Kameo Move",
+      "description": "Прыгает и хватает врага ногами, швыряя его через плечо."
+    },
+    {
+      "name": "Military Kick",
+      "input": "← + Assist",
+      "type": "Kameo Move",
+      "description": "Выполняет быстрый удар с разворота, отбрасывая врага назад."
+    }
+  ]
+},
+{
+  "name": "Jax (Kameo)",
+  "image": "images/Jax (Kameo).png",
+  "moves": [
+    {
+      "name": "Ground Pound",
+      "input": "↓ + Assist",
+      "type": "Kameo Move",
+      "description": "Бьёт по земле металлическим кулаком, создавая ударную волну, сбивающую врага."
+    },
+    {
+      "name": "Rocket Punch",
+      "input": "→ + Assist",
+      "type": "Kameo Move",
+      "description": "Наносит прямой мощный удар кулаком, отбрасывая врага на дальнюю дистанцию."
+    },
+    {
+      "name": "Overhead Smash",
+      "input": "← + Assist",
+      "type": "Kameo Move",
+      "description": "Замахивается двумя руками и обрушивает удар сверху вниз по врагу."
+    }
+  ]
+},
+{
+  "name": "Goro (Kameo)",
+  "image": "images/Goro (Kameo).png",
+  "moves": [
+    {
+      "name": "Shokan Grab",
+      "input": "→ + Assist",
+      "type": "Kameo Move",
+      "description": "Goro хватает врага четырьмя руками и с силой бросает его об землю."
+    },
+    {
+      "name": "Ground Slam",
+      "input": "↓ + Assist",
+      "type": "Kameo Move",
+      "description": "Бьёт обеими руками по земле, вызывая ударную волну."
+    },
+    {
+      "name": "Upper Cut Fury",
+      "input": "← + Assist",
+      "type": "Kameo Move",
+      "description": "Серия апперкотов четырьмя руками, пробивающая блок и наносящая сильный урон."
+    }
+  ]
+},
+{
+  "name": "Motaro (Kameo)",
+  "image": "images/Motaro (Kameo).png",
+  "moves": [
+    {
+      "name": "Tail Whip",
+      "input": "→ + Assist",
+      "type": "Kameo Move",
+      "description": "Резкий удар хвостом, сбивающий противника с ног и отбрасывающий назад."
+    },
+    {
+      "name": "Energy Ball",
+      "input": "↓ + Assist",
+      "type": "Kameo Move",
+      "description": "Выпускает энергетический снаряд, отражающий вражеские атаки на дистанции."
+    },
+    {
+      "name": "Teleport Step",
+      "input": "← + Assist",
+      "type": "Kameo Move",
+      "description": "Исчезает и появляется за спиной противника, сбивая его с толку и открывая окно для атаки."
+    }
+  ]
+},
+{
+  "name": "Sareena (Kameo)",
+  "image": "images/Sareena (Kameo).png",
+  "moves": [
+    {
+      "name": "Shadow Slice",
+      "input": "→ + Assist",
+      "type": "Kameo Move",
+      "description": "Бросок теневого кинжала, пробивающего броню и отбрасывающего врага."
+    },
+    {
+      "name": "Shadow Step",
+      "input": "← + Assist",
+      "type": "Kameo Move",
+      "description": "Телепортируется через врага и наносит удар в спину."
+    },
+    {
+      "name": "Demonic Dash",
+      "input": "↓ + Assist",
+      "type": "Kameo Move",
+      "description": "Стремительно прорывается вперёд с серией ударов клинками."
+    }
+  ]
+},
+{
+  "name": "Stryker (Kameo)",
+  "image": "images/Stryker (Kameo).png",
+  "moves": [
+    {
+      "name": "Gun Shot",
+      "input": "→ + Assist",
+      "type": "Kameo Move",
+      "description": "Выстрел из пистолета в грудь врага, прерывает вражеские приёмы на расстоянии."
+    },
+    {
+      "name": "Flash Grenade",
+      "input": "↓ + Assist",
+      "type": "Kameo Move",
+      "description": "Бросает светошумовую гранату, временно ослепляя противника и нарушая его комбо."
+    },
+    {
+      "name": "Baton Strike",
+      "input": "← + Assist",
+      "type": "Kameo Move",
+      "description": "Быстрый удар дубинкой с высокой скоростью, пробивающий лёгкий блок."
+    }
+  ]
+},
+{
+  "name": "Darrius (Kameo)",
+  "image": "images/Darrius (Kameo).png",
+  "moves": [
+    {
+      "name": "Power Kick",
+      "input": "→ + Assist",
+      "type": "Kameo Move",
+      "description": "Сильный удар ногой, отбрасывающий врага с высокой скоростью в угол."
+    },
+    {
+      "name": "Quick Throw",
+      "input": "↓ + Assist",
+      "type": "Kameo Move",
+      "description": "Бросает противника через плечо, позволяя начать комбинацию."
+    },
+    {
+      "name": "Spin Backfist",
+      "input": "← + Assist",
+      "type": "Kameo Move",
+      "description": "Разворот с ударом рукой, пробивающим защиту и меняющим позиции бойцов."
+    }
+  ]
+}
+  ]
+}
